@@ -1,3 +1,5 @@
+[![Build Status](https://devonwcislt.visualstudio.com/pipeline-training/_apis/build/status/pipeline-training-Node.js%20With%20gulp-CI?branchName=master)](https://devonwcislt.visualstudio.com/pipeline-training/_build/latest?definitionId=4&branchName=master)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
